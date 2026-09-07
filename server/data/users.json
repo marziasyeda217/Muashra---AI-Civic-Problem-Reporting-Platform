@@ -1,0 +1,44 @@
+[
+  {
+    "id": "usr-101",
+    "name": "Ahmed Khan",
+    "email": "ahmed@citizen.pk",
+    "password": "password123",
+    "role": "citizen",
+    "city": "Lahore",
+    "phone": "0300-1234567",
+    "createdAt": "2026-08-25T10:00:00.000Z"
+  },
+  {
+    "id": "usr-102",
+    "name": "Engr. Tariq Mehmood",
+    "email": "officer@wasa.gov.pk",
+    "password": "admin123",
+    "role": "officer",
+    "department": "Water & Sanitation Agency (WASA)",
+    "designation": "Sub-Divisional Officer (SDO)",
+    "badgeId": "WASA-SDO-210",
+    "isVerified": true,
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-08-20T10:00:00.000Z",
+    "city": "Lahore",
+    "phone": "042-99000123",
+    "createdAt": "2026-08-20T10:00:00.000Z"
+  },
+  {
+    "id": "usr-103",
+    "name": "Engr. Noman Ali",
+    "email": "sdo.khairpur@sepco.com.pk",
+    "password": "admin123",
+    "role": "officer",
+    "department": "Sukkur Electric Power Company (SEPCO)",
+    "designation": "Sub-Divisional Officer (SDO)",
+    "badgeId": "SEPCO-KHP-4091",
+    "isVerified": true,
+    "verificationStatus": "verified",
+    "verifiedAt": "2026-09-01T08:00:00.000Z",
+    "city": "Khairpur",
+    "phone": "071-9310500",
+    "createdAt": "2026-09-01T08:00:00.000Z"
+  }
+]

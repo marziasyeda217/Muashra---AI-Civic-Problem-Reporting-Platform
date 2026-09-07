@@ -1,0 +1,30 @@
+{
+  "name": "muashra-backend",
+  "version": "1.0.0",
+  "description": "MUASHRA Backend - AI Civic Problem-Reporting & Resolution Platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "civic-tech",
+    "ai",
+    "qwen",
+    "hackathon",
+    "pakistan"
+  ],
+  "author": "MUASHRA Team",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.114.0",
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "form-data": "^4.0.6",
+    "mongodb": "^7.6.0",
+    "multer": "^1.4.5-lts.1",
+    "uuid": "^10.0.0"
+  }
+}
